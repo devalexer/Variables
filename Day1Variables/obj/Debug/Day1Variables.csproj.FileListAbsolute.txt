@@ -1,0 +1,6 @@
+c:\users\allie\documents\visual studio 2017\Projects\Day1Variables\Day1Variables\bin\Debug\Day1Variables.exe.config
+c:\users\allie\documents\visual studio 2017\Projects\Day1Variables\Day1Variables\bin\Debug\Day1Variables.exe
+c:\users\allie\documents\visual studio 2017\Projects\Day1Variables\Day1Variables\bin\Debug\Day1Variables.pdb
+c:\users\allie\documents\visual studio 2017\Projects\Day1Variables\Day1Variables\obj\Debug\Day1Variables.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2017\Projects\Day1Variables\Day1Variables\obj\Debug\Day1Variables.exe
+c:\users\allie\documents\visual studio 2017\Projects\Day1Variables\Day1Variables\obj\Debug\Day1Variables.pdb
